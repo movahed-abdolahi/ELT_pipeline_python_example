@@ -94,7 +94,7 @@ SELECT Name FROM Largest_banks LIMIT 5;
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/etl-banks-marketcap.git
+   git clone https://github.com/your-username/ELT_pipeline_python_example.git
    cd etl-banks-marketcap
    ```
 
